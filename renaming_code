@@ -1,0 +1,7 @@
+this code is to rename file to make them consistent and easy to loop through
+
+the "-n" make trial to show what it will look like if done
+
+to run the code delete it
+
+rename -n 's/_from_.*/.csv/' *
